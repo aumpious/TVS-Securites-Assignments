@@ -41,10 +41,8 @@ argument. If no argument is given, it defaults to `config.ini` in the
 current directory.
 
 While the program is running, the latest reading can be viewed live at:
-```
 http://127.0.0.1:8899/latest
 http://127.0.0.1:8899/history
-```
 
 ## Configuration (`config.ini`)
 | Section | Key | Meaning |
@@ -103,12 +101,10 @@ http://127.0.0.1:8899/history
   `paho-mqtt`'s client provides by default.
 
 ## Files
-```
 assignment1/
 ├── sensor_monitor.py   # main program
 ├── config.ini          # configuration
 ├── README.md
 └── output/
-    ├── readings.csv       # generated at runtime
-    └── sensor_monitor.log # generated at runtime
-```
+├── readings.csv       # generated at runtime
+└── sensor_monitor.log # generated at runtime
