@@ -1,4 +1,4 @@
-# Assignment 1 – Temperature & Humidity Sensor Monitor
+# Assignment 1 – Programming (Temperature & Humidity Sensor Monitor)
 
 ## Programming Language
 Python 3, with two optional third-party packages for the bonus features
