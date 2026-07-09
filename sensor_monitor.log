@@ -1,0 +1,9 @@
+2026-07-07 17:41:56,946 [INFO] Sensor monitor starting up (interval=1.0s, buffer=100, alarm_threshold=35.0C)
+2026-07-07 17:41:56,947 [INFO] Reading OK: temp=25.25C humidity=49.41%
+2026-07-07 17:41:57,947 [INFO] Reading OK: temp=25.54C humidity=48.99%
+2026-07-07 17:41:58,947 [INFO] Reading OK: temp=25.63C humidity=49.81%
+2026-07-07 17:41:59,948 [INFO] Reading OK: temp=26.12C humidity=50.80%
+2026-07-07 17:42:00,948 [INFO] Reading OK: temp=25.81C humidity=51.67%
+2026-07-07 17:42:01,948 [INFO] Reading OK: temp=25.57C humidity=52.17%
+2026-07-07 17:42:02,949 [INFO] Reading OK: temp=25.27C humidity=52.81%
+2026-07-07 17:42:03,949 [INFO] Reading OK: temp=25.61C humidity=52.95%
